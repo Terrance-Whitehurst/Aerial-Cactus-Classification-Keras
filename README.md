@@ -1,6 +1,6 @@
 ![](images/G303-21.jpg)
 # Aerial Cactus Keras Image Classification
-### In this project I take the satelite images taken for autonomous feild detection to classify cactuses within the feild. I follow the research paper experiment and use the LeNet-5 Convolutional Neural Network architecture. I use data augmentation to get the model to a 95% accuracy.
+### In this project I take the satellite images taken for autonomous field detection to classify cactus's within the field. I follow the research paper experiment and use the LeNet-5 Convolutional Neural Network architecture. I use data augmentation to get the model to a 95% accuracy.
 
 # Dataset:
 ### https://www.kaggle.com/irvingvasquez/cactus-aerial-photos
