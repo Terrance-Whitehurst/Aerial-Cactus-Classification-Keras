@@ -10,6 +10,6 @@
 ### Here is the link to the research paper that contains the experiment and network architecture. Also this paper explains the dataset and the purpose for this expirement.
 ### https://jivasquez.files.wordpress.com/2019/03/rp_cactus_recognition_elsa-1.pdf
 
-![](images/cactus_trn_res.png)
+![](images/cactus_Res.png)
 
 ![](images/model_plot.png)
